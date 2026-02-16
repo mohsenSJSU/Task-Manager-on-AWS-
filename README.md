@@ -102,8 +102,5 @@ This application is deployed on AWS App Runner, which provides:
 - **Built-in load balancing
 - **HTTPS by default**
 
-## 👤 Author
-Mohsen Minai
-
 ## 📄 License
 This project was created for SJSU coursework.
